@@ -1,2 +1,2 @@
-# absenteeism-at-work
-"Absenteeism at work" project for Fundamentals of Data Science.
+# Absenteeism at Work
+Authors: Brandon Vandergriff, Gabriel Kiprono, Stephen Meshotto, Jacob Hill
